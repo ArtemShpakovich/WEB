@@ -1,0 +1,20 @@
+{
+  "name": "wlab3d",
+  "version": "1.0.0",
+  "description": "lab3 web",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
